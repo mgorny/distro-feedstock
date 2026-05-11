@@ -46,7 +46,7 @@ about:
   license_file: LICENSE
   summary: Provides information about the OS distribution it runs on, such as a reliable machine-readable ID, or version information.
   doc_url: http://distro.readthedocs.io/en/latest/
-  dev_url: https://github.com/nir0s/distro
+  dev_url: https://github.com/python-distro/distro
 
 extra:
   recipe-maintainers:
